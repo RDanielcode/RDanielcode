@@ -1,4 +1,22 @@
-### Hi there 👋
+<p align="center"><img src="https://github.com/RDanielcode/RDanielcode/blob/master/img/computer.jpg" width="200"></p>
+
+## Hi there 👋, my name is Daniel Reyes.
+
+Web Developer, Chemichal Engineer.
+
+## Path Carrer
+Currently, i'm studying and improving my knowledge about HTML5, CSS3 and JavaScript, with a mid/long term goal of becoming a full stack.
+
+I'm a person who likes to face challenges and to learn something everytime i've got the opportunity. 
+
+### Personal aspect
+I'm venezuelan, living in Maracaibo open to remote opportunities.
+
+### Skills
+
+- HTML5
+- CSS3
+- JavaScript
 
 <!--
 **RDanielcode/RDanielcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

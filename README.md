@@ -19,7 +19,7 @@ I'm venezuelan, living in Maracaibo open to remote opportunities.
 - JavaScript
 
 ## Contact 
-[Linkedin Profile](https://www.linkedin.com/in/daniel-reyes-88745471/?locale=en_US)
+<a href="https://www.linkedin.com/in/daniel-reyes-88745471/?locale=en_US" target="_blank"><img src="https://github.com/RDanielcode/RDanielcode/blob/master/img/download.png" width="60"></a>
 
 <!--
 **RDanielcode/RDanielcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

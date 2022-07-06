@@ -1,0 +1,22 @@
+{
+  "name": "rdanielcode",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"><img src=\"https://github.com/RDanielcode/RDanielcode/blob/master/img/computer.jpg\" width=\"200\"></p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RDanielcode/RDanielcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RDanielcode/RDanielcode/issues"
+  },
+  "homepage": "https://github.com/RDanielcode/RDanielcode#readme",
+  "dependencies": {
+    "@exuanbo/file-icons-js": "^3.3.0"
+  }
+}

@@ -18,7 +18,7 @@ I'm venezuelan, living in Maracaibo open to remote opportunities.
 ##### Programming languages
 
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
+<p align="left">  <img src="./img/javascript.png" alt="javascript" width="65" height="65"/> <img src="./img/typescript.png" alt="typescript" width="65" height="65"/><img src="./img/React.png" alt="react" width="65" height="65"/>
 </p>
 
 
@@ -28,9 +28,8 @@ ____
 ##### FrontEnd Development
 
 
-<p align="left>
-E649
- </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/file-icons/DevOpicons/master/svg/css3.svg?sanitize=true" alt="css3" width="65" height="65" color="#2d59e4"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="65" height="65"/> </a>
+<p align="left">
+<img src="./img/css3.png" alt="css3" width="65" height="65"/> <img src="./img/html5.png" alt="html5" width="55" height="57"/><img src="./img/sass.png" alt="sass" width="70" height="65"/>
 </p>
 
  ##### Others
@@ -41,7 +40,7 @@ E649
 
 
 ## Contact 
-<a href="https://www.linkedin.com/in/daniel-reyes-88745471/?locale=en_US" target="_blank"><img src="https://github.com/RDanielcode/RDanielcode/blob/master/img/download.png" width="60"></a>
+<a href="https://www.linkedin.com/in/daniel-reyes-88745471/?locale=en_US" target="_blank"><img src="./img/Linkedin.png" width="60"></a>
 
 <!--
 **RDanielcode/RDanielcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
